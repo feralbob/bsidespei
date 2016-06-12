@@ -1,5 +1,5 @@
 # Jekyll
-markdown: rdiscount
+markdown: kramdown
 highlighter: "pygments"
 permalink: /:title.html
 
