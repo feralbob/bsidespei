@@ -20,8 +20,8 @@ sections:
   about: true
   c4p: true
   location: true
-  speakers: true
-  schedule: true
+  speakers: false
+  schedule: false
   sponsors: true
   partners: true
   contact: false
