@@ -3,16 +3,6 @@ markdown: kramdown
 highlighter: "pygments"
 permalink: /:title.html
 
-# Conference info
-conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "Only $100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
-
 # Site info
 site:
   url: "http://confboilerplate.com"
