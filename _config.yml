@@ -22,7 +22,7 @@ sections:
   location: true
   speakers: false
   schedule: false
-  sponsors: true
+  sponsors: false
   partners: true
   contact: false
 
