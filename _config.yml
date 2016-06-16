@@ -108,8 +108,8 @@ sponsors:
 # Call for papers section
 c4p_section:
    title: "Call for papers"
-   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-   c4p_url: "http://call4paperz.com"
+   text: "BSidesPEI is considering having 2 tracks throughout the day.  Track 1 is open to anyone, and track 2 will be reserved for first time presenters. Please send along details of your proposal and if you wish to be considered for the first timers track.  We want the event to be a safe fun place for people to engage with the security community and to improve their skills."
+   c4p_url: "mailto:cfp@bsidespei.ca"
    c4p_caption: "Submit"
    c4p_rules_url: "http://call4paperz.com"
    c4p_rules_caption: "Read the rules."
