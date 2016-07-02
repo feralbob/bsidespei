@@ -3,17 +3,18 @@
   <!-- SPONSORS -->
   <section class="sponsors" id="sponsors">
     <h2 class="section-title">{{site.sponsors_section.title}}</h2>
+    <p>BSidesPEI is seeking sponsors to help the event go without a hitch. Interested? Drop us a line <a href="mailto:sponsorship@bsidespei.ca">sponsorship@bsidespei.ca</a></p>
     <ul class="sponsors-list">
 
-    {% for sponsor in site.sponsors %}
+    {% for sponsor in site.data.sponsors %}
       <li class="sponsor-item">
-        <a class="sponsor-logo sponsor-link" href="{{ sponsor.url }}"><img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="photo" /></a>
+        <a class="partner-logo partner-link" href="{{ sponsor.url }}"><img src="{{ site.base_url }}/img/{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="photo" /></a>
       </li>
     {% endfor %}
 
     {% if site.sponsors_section.show_your_logo_here %}
       <li class="sponsor-item">
-        <a class="sponsor-logo sponsor-link sponsor-call" href="#"><img src="img/your-logo.jpg" alt="your logo" class="photo" /></a>
+        <a class="partner-logo partner-link partner-call" href="#"><img src="{{ site.base_url }}/img/your-logo.jpg" alt="your logo" class="photo" /></a>
       </li>
     {% endif %}
     
