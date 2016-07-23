@@ -15,7 +15,7 @@
         </thead>
         <tbody>
 
-          {% for slot in site.schedule %}
+          {% for slot in site.data.schedule %}
             {% if slot.presentation %}
               <tr>
                 <td class="schedule-time">{{ slot.presentation.time }}</td>
