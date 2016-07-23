@@ -18,7 +18,7 @@ subscribe_url: "https://www.eventbrite.ca/e/bsidespei-tickets-26642284791"
 # Active sections on the website
 sections:
   about: true
-  c4p: true
+  c4p: false
   location: true
   speakers: false
   schedule: false
