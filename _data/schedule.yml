@@ -1,42 +1,45 @@
   -
-    name: "Check-in / Breakfast"
-    time: "9h00"
+    name: "Check-in"
+    time: "9h30"
+  -
+    name: "Welcoming remarks"
+    time: "10h00"
   -
     name: "Anna Manley"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+    photo: "AnnaManley.jpg"
     bio: "Anna is a lawyer based in Sydney, Nova Scotia, practicing in the areas of intellectual property, tech/internet and privacy law, corporate law, and civil litigation. She advises individuals, start-ups, established companies, and organizations."
     company: "Sampson McPhee"
     twitter: "nnamanley"
     presentation:
       title: "Disruptive Developers: Federal Court Crackdown on Set-top Boxes"
       description: "Set-top boxes make it easier to consumers to access material protected by copyright. On June 1, 2016, the Federal Court of Canada granted an injunction (requested by Bell and Rogers) to prohibit the sale of set-top boxes with pre-loaded software because these boxes cause irreparable harm to the companies’ bottom lines. Let’s talk about the impact of this decision on developers and users."
-      time: "10h00"
-  -
-    name: "Reg MacWilliams"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Reg MacWilliams is an Information Professional with 15+ years experience, the last 8 specifically in Security. Specializes in Infrastructure security and Defensive Security practices. Industry experience includes, but not limited to, Manufacturing, Transportation, Government, Retail, and Media. Past presenter at Atlantic Security Conference and founder of Moncton Area Security Klatch. CISSP and SANS certified. Born in Charlottetown, lived there for 8 months - he’s an Islander! "
-    presentation:
-      title: "Vendor limitations and AI Overlords - how to bridge the gap until we can all retire with guaranteed income"
-      description: "Vendors and related technology are what they are - they might stop the weak attackers, and get you a checkmark, but they may not keep you from having Brian Krebs writing about you. Advanced and working AI is at least a month away, so we need to bridge the gap somehow.
-
-We’ll talk (and cry together) about all sorts of existing technologies, and their limitations, and what they are best served for. Then, more importantly, we’ll talk about alternative methods to fill in the gaps until our future AI overlords save us all."
-      time: "11h00"
-  -
-    name: "Lunch"
-    time: "12h00"
+      time: "10h30"
   -
     name: "Travis Barlow"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+    photo: "TravisBarlow.jpg"
     bio: "Travis Barlow has over 19 years of expereience in the IT industry, having started his career working on a internet support helpline.  From these humble beginnings he has become a IT Security Leader known for his no BS approach to solving complex security problems."
     company: "Go Secure"
     twitter: "Travis_R_Barlow"
     presentation:
-      title: "Lessons from the Huntsman - Successes and Failures in building a Modern Hunt Team"
+      title: "Successes and Failures in building a Modern Hunt Team"
       description: "During his presentation Mr.Barlow will discuss the requirements of building a world class hunt team, what has worked and what has failed, and discuss the future of hunting unknown threats.  Additonal topics covered will be the pro/cons of machine learning assisted threat detection, the benefits/risks of affordable quantum computing, and of course the current InfoSec industry."
-      time: "13h00"
+      time: "11h30"
+  -
+    name: "Lunch"
+    time: "12h30"
+  -
+    name: "Brandon Banks"
+    photo: "BrandonBanks.jpg"
+    bio: "Brandon Banks is a recent graduate from the University of Prince Edward Island with a Bachelor of Science in Computer Science. For the past seven months Brandon has been one of the aspiring entrepreneurs behind TimeShifts, a web application designed to save restaurant managers time and money in their workplace scheduling. During his work on TimeShifts he has been in charge of security and testing of the platform."
+    company: "Timeshifts"
+    twitter: "brandonjbanks"
+    presentation:
+      title: "My Perspective: Authentication & Authorization using JWT"
+      description: "There is an ever-growing need for security in our software applications; our users are providing more and more private and personal information. It is imperative that this information be secure, and it is up to us as software developers to make sure of this. As a junior developer it is easy to push security off until a later date; this will often lead to complications and is quite possible that you will end up changing the architecture down the road. The purpose of my talk is to give a brief introduction, and my own personal experience with authentication and authorization through the use of JSON Web Tokens (JWT)."
+      time: "13h30"
   -
     name: "Katie Horne"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+    photo: "KatieHorne.jpg"
     bio: "A relative newcomer to the InfoSec industry, Ms. Horne has quickly risen within the GoSecure Active Response Centre to Shift Lead. In this role, she leads a hunt team that targets advanced adversary activity within GoSecure's client base. Furthermore, she has been tasked with developing the deceptive technology component of the Advanced Adversary stack, which she believes to be fundamental in the current Infosec arms race."
     company: "Go Secure"
     twitter: "waysidekt"
@@ -48,11 +51,17 @@ We’ll talk (and cry together) about all sorts of existing technologies, and th
     name: "Coffee-break"
     time: "15h00"
   -
+    name: "Lightning Talk #2 - TBD"
+    time: "15h30"
+  -
     name: "Julien Savoie"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
+    photo: "JulienSavoie.jpg"
     bio: "A multiple time Atlseccon and HASK speaker, Julien brings more than 15 years of IT experience and has worked in a variety of sectors including government, academia and private. With a background in software development, cryptography and networking, Julien has made code contributions to several OSS projects and maintains a number of Tor relays. His hobbies include photography, modifying cars and putting kittens on the “darkweb”."
     twitter: "jzsavoie"
     presentation:
-      title: "Revealing Facebook Secrets"
+      title: "How to run a dark market (without getting caught)"
       description: "Marketplaces on the “darkweb” have captured the imagination of journalists; with promises of illicit goods of every variety and total anonymity. However, with news of recent busts of (in)famous dark market websites, it's become obvious that running a dark market website, without getting caught, requires thorough planning. Explored will be a number of the technical and logistical challenges one would need to address in setting up their own marketplace. We will provide solutions to many. We will also discuss the economics at play and what’s actually available in such marketplaces as a result."
       time: "16h00"
+  -
+    name: "BSidesPEI Social @ The Old Triangle Pourhouse"
+    time: "17h00 - 19h00"
