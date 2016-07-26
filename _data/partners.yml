@@ -2,3 +2,6 @@
 - name: "North East PHP"
   logo: "NEPHP.png"
   url: "http://2016.northeastphp.org/"
+- name: "Security BSides"
+  logo: "BSides.png"
+  url: "http://www.securitybsides.com"
