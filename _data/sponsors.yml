@@ -5,3 +5,6 @@
 - name: "Go Secure"
   logo: "GoSecure.png"
   url: "https://www.gosecure.ca"
+- name: "Fortinet"
+  logo: "Fortinet.jpg"
+  url: "https://www.fortinet.com"
