@@ -9,7 +9,7 @@
     {% for speaker in site.data.schedule %}
       {% if speaker.presentation %}
         <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
+          <span class="speaker-photo"><img class="photo" src="{{ site.base_url }}/img/{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
 
           <h3 class="speech-title">
             {% if speaker.presentation.time %}
